@@ -1,10 +1,4 @@
-import {
-  Background,
-  Container,
-  Content,
-  InputContainer,
-  TechContainer,
-} from "./styles";
+import { Background, Container, InputContainer, TechContainer } from "./styles";
 
 import { Button, TextField } from "@material-ui/core";
 import { useEffect } from "react";
